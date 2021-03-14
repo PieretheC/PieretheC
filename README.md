@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @PieretheC
+- 👀 I’m interested in Python, Java, AI and Robotics
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on programming.
+- 📫 How to reach me is here :)
